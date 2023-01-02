@@ -154,7 +154,7 @@ class _InstagramFeedsState extends State<InstagramFeeds>
           ),
         ),
         SingleChildScrollView(
-          padding: EdgeInsets.symmetric(horizontal: 10.0),
+          padding: const EdgeInsets.symmetric(horizontal: 10.0),
           scrollDirection: Axis.horizontal,
           child: Wrap(
             spacing: 10,
@@ -162,72 +162,72 @@ class _InstagramFeedsState extends State<InstagramFeeds>
               Container(
                 height: 70.0,
                 width: 70.0,
-                padding: EdgeInsets.all(2.0),
+                padding: const EdgeInsets.all(2.0),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(100),
-                  border: Border.all(color: Color.fromARGB(255, 225, 225, 225)),
+                  border: Border.all(color: const Color.fromARGB(255, 225, 225, 225)),
                 ),
-                child: CircleAvatar(
+                child: const CircleAvatar(
                   backgroundColor: Colors.red,
                 ),
               ),
               Container(
                 height: 70.0,
                 width: 70.0,
-                padding: EdgeInsets.all(2.0),
+                padding: const EdgeInsets.all(2.0),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(100),
-                  border: Border.all(color: Color.fromARGB(255, 225, 225, 225)),
+                  border: Border.all(color: const Color.fromARGB(255, 225, 225, 225)),
                 ),
-                child: CircleAvatar(
+                child: const CircleAvatar(
                   backgroundColor: Colors.red,
                 ),
               ),
               Container(
                 height: 70.0,
                 width: 70.0,
-                padding: EdgeInsets.all(2.0),
+                padding: const EdgeInsets.all(2.0),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(100),
-                  border: Border.all(color: Color.fromARGB(255, 225, 225, 225)),
+                  border: Border.all(color: const Color.fromARGB(255, 225, 225, 225)),
                 ),
-                child: CircleAvatar(
+                child: const CircleAvatar(
                   backgroundColor: Colors.red,
                 ),
               ),
               Container(
                 height: 70.0,
                 width: 70.0,
-                padding: EdgeInsets.all(2.0),
+                padding: const EdgeInsets.all(2.0),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(100),
-                  border: Border.all(color: Color.fromARGB(255, 225, 225, 225)),
+                  border: Border.all(color: const Color.fromARGB(255, 225, 225, 225)),
                 ),
-                child: CircleAvatar(
+                child: const CircleAvatar(
                   backgroundColor: Colors.red,
                 ),
               ),
               Container(
                 height: 70.0,
                 width: 70.0,
-                padding: EdgeInsets.all(2.0),
+                padding: const EdgeInsets.all(2.0),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(100),
-                  border: Border.all(color: Color.fromARGB(255, 225, 225, 225)),
+                  border: Border.all(color: const Color.fromARGB(255, 225, 225, 225)),
                 ),
-                child: CircleAvatar(
+                child: const CircleAvatar(
                   backgroundColor: Colors.red,
                 ),
               ),
               Container(
                 height: 70.0,
                 width: 70.0,
-                padding: EdgeInsets.all(2.0),
+                padding: const EdgeInsets.all(2.0),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(100),
-                  border: Border.all(color: Color.fromARGB(255, 225, 225, 225)),
+                  border: Border.all(color: const Color.fromARGB(255, 225, 225, 225)),
                 ),
-                child: CircleAvatar(
+                child: const CircleAvatar(
                   backgroundColor: Colors.red,
                 ),
               ),
